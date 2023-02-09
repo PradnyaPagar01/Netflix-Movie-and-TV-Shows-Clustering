@@ -1,7 +1,7 @@
 # Netflix-Movie-and-TV-Shows-Clustering
 ![Netflix-logo-red-black-png](https://user-images.githubusercontent.com/114013873/217717119-fd9542ab-34b1-4745-af08-3a9b6ce39d65.png)
 
-Objectives:
+# Objectives:
 Conduct Exploratory Data Analysis.
 
 Try understanding what type content is available in different countries.
@@ -10,21 +10,21 @@ Check if Netflix is increasingly focusing on TV rather than movies in recent yea
 
 Clustering similar content by matching text-based features.
 
-Methods used:
+# Methods used:
 Descriptive Statistics.
 
 Data Visualization.
 
 Machine Learning.
 
-Libraries utilized:
+# Libraries utilized:
 NumPy and Pandas - For dataset cleaning and analysis.
 
 Matplotlib, Plotly and Seaborn - For Data Visualization.
 
 SkLearn and nltk - For machine learning and clustering.
 
-Project Overview
+# Project Overview
 Netflix, is an American subscription streaming service and production company. It was founded in 1997 by Reed Hastings and Marc Randolph in Scott’s Valley, California.
 
 It offers a library of films and television series through distribution deals as well as its own productions, known as Netflix Originals.
